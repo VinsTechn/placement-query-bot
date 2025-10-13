@@ -1,0 +1,30 @@
+Head of the Department – Training & Placement
+---------------------------------------------
+Dr. Saritha Chakrasali is the Head of the Department of Training & Placement 
+and a Professor in the Department of Information Science & Engineering at BNMIT. 
+
+Education:
+- Bachelor’s degree from Bangalore University
+- Master’s degree from AAIDU, India
+- Ph.D. from Madurai Kamraj University, India
+
+Experience:
+- 24 years in teaching
+- 18 years in research at BNMIT
+- Guided multiple Ph.D. scholars
+
+Achievements:
+- 29 publications in reputed international/national journals and conferences
+- Delivered workshops on Basic & Advanced Algorithms at Wipro Digital, Bangalore
+- Chaired technical sessions in international conferences
+- Organized various workshops and conferences at BNMIT
+
+Grants & Recognitions:
+- Received Rs. 20 Lakhs grant under VGST K-FIST L1 scheme (2019–2021) 
+  for “GPGPU Computing for computationally complex problems”
+- Lifetime member of IEI, ISTE, and CSI
+- Copyright: “Intelligent Art Transformation using Conditional GANs” (2024)
+- Patent: “Food Grain Image Acquisition Apparatus” (2023)
+
+Expertise:
+- Image Processing

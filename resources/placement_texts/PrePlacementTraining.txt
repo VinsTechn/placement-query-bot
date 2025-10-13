@@ -1,0 +1,16 @@
+Pre-Placement Training
+
+The Training & Placement Department conducts a Pre-Placement Training program for students entering the seventh semester to prepare them for campus recruitment drives. The training spans six days and focuses on employability skills, technical knowledge, and personality development.
+
+Objectives:
+- Empower students for recruitment drives
+- Enhance overall personality and communication skills
+- Simulate real-world industry scenarios for practical learning
+
+Training Modules:
+1. Aptitude Test: Activity-based learning on various modules
+2. Technical Training:
+   - For CS students: Big Data, Data Analytics, Cloud Computing, IoT, Hadoop
+   - For Non-CS students: Operating Systems, C, C++, Java, DBMS, Data Structures & Algorithms
+3. Soft Skills & Personality Development: Resume Writing, Group Discussion, Personal Interviews, Etiquettes, and Attitude
+4. Assessment: Post-training employability evaluation
