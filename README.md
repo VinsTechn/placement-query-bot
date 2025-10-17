@@ -10,10 +10,10 @@ including the semantic router, FAQ processor, and SQL chain modules.
 
 ### 🔗 Related Repository
 For the live, optimized deployment version (Streamlit app), visit:  
-👉 [placement-query-bot-app](https://github.com/VinsTechn/placement-query-bot-app)
+👉 [placement-query-bot-deploy](https://github.com/VinsTechn/placement-query-bot-deploy)
 
 Try it live here:  
-🌐 [Streamlit App](https://placement-query-bot-app-hcf7rjstmasbfrzfsaayas.streamlit.app/)
+🌐 [Streamlit App](https://placement-query-bot-deploy-uy4x7flnvz2zg4w46kka6a.streamlit.app/)
 
 ---
 
