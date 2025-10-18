@@ -13,7 +13,7 @@ For the live, optimized deployment version (Streamlit app), visit:
 👉 [placement-query-bot-deploy](https://github.com/VinsTechn/placement-query-bot-deploy)
 
 Try it live here:  
-🌐 [Streamlit App](https://placement-query-bot-deploy-nca5gnv6cvsgocw4akb5sv.streamlit.app/)
+🌐 [Streamlit App](https://placement-query-bot-deploy-mhzuaomjatq3jiryatemjp.streamlit.app/)
 
 ---
 
